@@ -1,0 +1,6 @@
+DNA = 1
+foldedDNA = 1.1
+mutatedDNA = 1.2
+RNA = 2
+miRNA = 2.1
+piRNA = 2.2
